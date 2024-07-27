@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MATH371 = "a42d0992-17e3-40ce-bb97-d0a2dde34fbd"
