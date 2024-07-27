@@ -13,6 +13,7 @@ Returns a greeting message for the given `name`.
 ```julia
 julia> say_hi("Alice")
 "Hi Alice"
+```
 """
 function say_hi(name::String)
     "Hi $name"
