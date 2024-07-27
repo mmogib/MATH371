@@ -27,7 +27,7 @@ jobs:
           - 'pre'
         os:
           - ubuntu-latest
-          - windows
+          - windows-latest
         arch:
           - x64
     steps:
